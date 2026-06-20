@@ -24,17 +24,6 @@ Buildanta Material Helper is an AI-powered web application that helps first-time
 ```bash
 npm install
 npm run dev
-```
 
-## Environment Variable
 
-Create `.env.local`:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
-## Author
-
-Prabhakar Sharma
 
